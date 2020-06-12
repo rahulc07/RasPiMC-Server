@@ -21,4 +21,4 @@ sudo rm -r Bukkit
 sudo rm -r work
 sudo cp spigot*.jar spigot.jar
 echo "Goodbye!"
-java -jar spigot.jar
+java -jar spigot.jar nogui
