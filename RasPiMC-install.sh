@@ -3,6 +3,9 @@
 echo "Installing Java 8"
 sudo apt install openjdk-8-jdk
 echo "Done"
+echo "Instaling screen"
+sudo apt install screen
+echo "Done"
 echo "Getting buildtools"
 wget https://hub.spigotmc.org/jenkins/job/BuildTools/lastSuccessfulBuild/artifact/target/BuildTools.jar
 echo "Building latest spigot jar, if you want another version, you can do java -jar BuildTools.jar --rev (version)"
