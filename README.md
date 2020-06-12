@@ -2,7 +2,7 @@
 Here you will learn how to ***easy*** make a minecraft server on a Raspberry Pi!
 
 # Step 1
-Open the terminal emulator and install git with this command: `sudo apt insatll git`. Then insert this: `git clone https://github.com/timof121/RasPiMC-Server.git`
+Open the terminal emulator and install git with this command: `sudo apt install git`. Then insert this: `git clone https://github.com/timof121/RasPiMC-Server.git`
 Then put: `cd RasPiMC-Server/`
 
 # Step 2
